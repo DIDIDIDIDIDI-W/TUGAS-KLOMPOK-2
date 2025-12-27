@@ -1,0 +1,5 @@
+
+{
+  "name": "Excel Regression Analyzer",
+  "description": "An interactive web application to upload Excel files, visualize data with a scatter plot, and perform simple linear regression analysis. The app displays the regression line, equation, and R-squared value."
+}
